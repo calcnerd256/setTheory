@@ -1,0 +1,7 @@
+* Axiomatic Set Theory as the Foundation of a Computer Science Education
+
+** TODO:
+*** plan out a lesson plan that goes from knowing nothing about actual math to fluency in Set Theory
+*** render the lesson plan as hypertext
+*** attempt to teach from this lesson plan
+*** collect feedback and iterate
