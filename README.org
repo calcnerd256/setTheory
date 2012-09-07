@@ -40,3 +40,7 @@ The terminology for these is "deep" links.
 *** render the lesson plan as hypertext
 *** attempt to teach from this lesson plan
 *** collect feedback and iterate
+
+** Tactics
+Should I try the Socratic Method?
+Under what conditions would that be a good idea?
