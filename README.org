@@ -1,6 +1,6 @@
 * Axiomatic Set Theory as the Foundation of a Computer Science Education
 
-This repository contains a hypertext document viewable on the web at http://calcnerd256.dyndns.org:15211/hat/unsorted/setTheory/
+This repository contains a hypertext document viewable on the Web at http://calcnerd256.dyndns.org:15211/hat/unsorted/setTheory/
 
 ** TODO:
 *** plan out a lesson plan that goes from knowing nothing about actual math to fluency in Set Theory
