@@ -2,6 +2,31 @@
 
 This repository contains a hypertext document viewable on the Web at http://calcnerd256.dyndns.org:15211/hat/unsorted/setTheory/
 
+** Topics
+*** logic
+**** truth tables
+***** NAND
+*** teaser on set operations
+**** very high-level, but contains "deep" hyperlinks
+*** proofs
+**** What is an axiom, and why should I care?
+***** What happens if we try to construct math some other way?
+*** ZFC
+**** building upon previous teaser
+**** quickly goes deep into ways set theory can be counter-intuitive
+
+** Traversal
+This document is going to be hypertextual.
+*** Essential
+Some hyperlinks will lead to necessary prerequisites.
+Failure to traverse these links will leave the reader unable to proceed.
+*** Supplemental
+Some hyperlinks will lead down a rabbit-hole to unnecessary details.
+It is the author's hope that these topics will be of interest to the more adventurous reader.
+However, these links can be distracting and should be avoided on the first pass.
+They will be a different color.
+The terminology for these is "deep" links.
+
 ** TODO:
 *** plan out a lesson plan that goes from knowing nothing about actual math to fluency in Set Theory
 *** render the lesson plan as hypertext
