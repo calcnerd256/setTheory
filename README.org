@@ -6,14 +6,22 @@ This repository contains a hypertext document viewable on the Web at http://calc
 *** logic
 **** truth tables
 ***** NAND
+A universal operator.
+We'll briefly mention its relationship with transistors.
+***** all binary boolean operators
+There are only 16 of them.
+We evaluate them Wolfram-style.
+They form a group.
+Maybe we'll make an interactive page to experiment with these.
+We'll construct each with NANDs.
 *** teaser on set operations
-**** very high-level, but contains "deep" hyperlinks
+very high-level, but contains "deep" hyperlinks
 *** proofs
 **** What is an axiom, and why should I care?
-***** What happens if we try to construct math some other way?
+What happens if we try to construct math some other way?
 *** ZFC
-**** building upon previous teaser
-**** quickly goes deep into ways set theory can be counter-intuitive
+building upon previous teaser,
+quickly goes deep into ways set theory can be counter-intuitive
 
 ** Traversal
 This document is going to be hypertextual.
