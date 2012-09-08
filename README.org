@@ -35,7 +35,7 @@ However, these links can be distracting and should be avoided on the first pass.
 They will be a different color.
 The terminology for these is "deep" links.
 
-** TODO:
+** TODO
 *** plan out a lesson plan that goes from knowing nothing about actual math to fluency in Set Theory
 *** render the lesson plan as hypertext
 *** attempt to teach from this lesson plan
@@ -44,3 +44,17 @@ The terminology for these is "deep" links.
 ** Tactics
 Should I try the Socratic Method?
 Under what conditions would that be a good idea?
+
+* LibTransclusion
+I want to be able to transclude other documents inline.
+I think I'll write a JS library for it.
+** Inline Transclusion
+** API
+An element with a class of "external" gets replaced.
+The replacement is done by looking up the document at a URL.
+The URL comes from the element's "data-href" attribute.
+Elements of class "snippet" in the transcluded document replace the "external"-classed element.
+** TODO
+*** Implement the API designed so far
+*** Design a better API as a superset of the current one
+*** Implement the new design
